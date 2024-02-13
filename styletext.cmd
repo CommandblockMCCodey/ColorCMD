@@ -1,9 +1,10 @@
 @echo off
 
-call :style@text "RED_BACKGROUND_STRONG" " "
-call :style@text "BLUE_BACKGROUND_STRONG" " "
-call :style@text "RED_FOREGROUND_NORMAL" "#"
-call :style@text "BLUE_FOREGROUND_NORMAL" "#"
+
+rem your code here!
+
+
+
 goto :end
 
 :style@text
